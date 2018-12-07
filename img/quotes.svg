@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="83" height="62"
+     viewBox="0 0 83 62">
+  <defs>
+    <path id="fokga"
+          d="M405.7 876.334h11.38v29.688h-28.564v-25c0-23.662 11.158-34.6 32.804-37.055l2.678 10.715c-13.836 2.901-19.415 10.937-18.299 21.652zm-47.757 0h11.381v29.688h-28.341v-25c0-23.662 10.934-34.6 32.581-37.055l2.678 10.715c-13.613 2.901-19.415 10.937-18.3 21.652z"/>
+  </defs>
+  <g>
+    <g transform="translate(-341 -844)">
+      <use fill="#1c1c1c" xlink:href="#fokga"/>
+    </g>
+  </g>
+</svg>

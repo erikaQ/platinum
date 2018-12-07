@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="203"
+     viewBox="0 0 200 203">
+  <defs>
+    <path id="rdaua"
+          d="M438.5 2728c54.952 0 99.5 44.547 99.5 99.5 0 54.952-44.548 99.5-99.5 99.5-11.851 0-23.218-2.072-33.76-5.874-7.349-2.65-31.726 9.643-31.726 9.643s-.695-28.62-5.75-33.803c-17.489-17.93-28.264-42.44-28.264-69.466 0-54.953 44.548-99.5 99.5-99.5z"/>
+    <path id="rdauc" d="M439 2740c48.6 0 88 39.399 88 88s-39.4 88-88 88c-48.601 0-88-39.399-88-88s39.399-88 88-88z"/>
+    <clipPath id="rdaub">
+      <use fill="#fff" xlink:href="#rdaua"/>
+    </clipPath>
+  </defs>
+  <g>
+    <g transform="translate(-338 -2728)">
+      <use fill="#fff" fill-opacity="0" stroke="#ddd" stroke-miterlimit="50" stroke-width="2"
+           clip-path="url(&quot;#rdaub&quot;)" xlink:href="#rdaua"/>
+    </g>
+    <g transform="translate(-338 -2728)">
+      <use fill="#f5f5f5" xlink:href="#rdauc"/>
+    </g>
+  </g>
+</svg>
